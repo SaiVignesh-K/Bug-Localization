@@ -1,0 +1,575 @@
+issue,files-changed,y-value
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow/src/main/java/com/netflix/hollow/tools/util/ObjectInternPool.java,1
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow/src/main/java/com/netflix/hollow/tools/util/SearchUtils.java,1
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow/src/main/java/com/netflix/hollow/tools/diff/HollowDiff.java,1
+Support byte[] in @HollowPrimaryKey for ObjectInternPool in HollowHistoryUI,hollow-master/hollow/src/test/java/com/netflix/hollow/tools/util/ObjectInternPoolTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/HollowProducer.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/AbstractHollowProducer.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/metrics/AnnouncementMetrics.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/metrics/AbstractProducerMetricsListener.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/HollowStateEngine.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowWriteStateEngine.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowObjectTypeWriteState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowBlobWriter.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowTypeWriteState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/HollowTypeReadState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/HollowReadStateEngine.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowProducerIncrementalTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowProducerTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowIncrementalProducerTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/HollowWriteStateEngineTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/HollowObjectTypeWriteStateTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/util/HollowWriteStateCreatorTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeDataElementsJoinerTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/HollowProducer.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/AbstractHollowProducer.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/metrics/AnnouncementMetrics.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/metrics/AbstractProducerMetricsListener.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/HollowStateEngine.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowWriteStateEngine.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowObjectTypeWriteState.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowBlobWriter.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowTypeWriteState.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/HollowTypeReadState.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/HollowReadStateEngine.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowProducerIncrementalTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowProducerTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowIncrementalProducerTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/HollowWriteStateEngineTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/HollowObjectTypeWriteStateTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/core/util/HollowWriteStateCreatorTest.java,1
+Consumer delta application supports re-sharding for Object type,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeDataElementsJoinerTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeReadStateDeltaTransitionBenchmark.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/HollowBlobReader.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/HollowTypeReadState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/set/HollowSetTypeReadState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/map/HollowMapTypeReadState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/list/HollowListTypeReadState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/object/HollowObjectDeltaApplicator.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeReadStateShard.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeReadState.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/object/HollowObjectDeltaHistoricalStateCreator.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeDataElementsSplitJoinTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/AbstractHollowObjectTypeDataElementsSplitJoinTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeReadStateTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeDataElementsJoinerTest.java,1
+HollowObjectTypeDataElements utilities for splitting and joining,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/engine/object/HollowObjectTypeDataElementsSplitterTest.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/FakeDataGenerator.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Chapter.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/BookId.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/ChapterId.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/BookMetadata.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Book.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/BookImages.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Art.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Artist.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Genre.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Scene.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/ChapterInfo.java,1
+Enhanced HollowHistoryTypeKeyIndex with Optimized Mappings and Memoization,hollow-master/hollow-fakedata/src/main/java/hollow/model/Country.java,1
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+PerformanceAPI directory not matching package,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/perfapi/HollowPerformanceAPIGenerator.java,1
+PerformanceAPI directory not matching package,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/perfapi/HollowPerformanceAPIClassGenerator.java,1
+PerformanceAPI directory not matching package,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/perfapi/HollowObjectTypePerfAPIClassGenerator.java,1
+PerformanceAPI directory not matching package,hollow-master/hollow/src/test/java/com/netflix/hollow/api/codegen/AbstractHollowAPIGeneratorTest.java,1
+PerformanceAPI directory not matching package,hollow-master/hollow/src/test/java/com/netflix/hollow/api/codegen/HollowCodeGenerationCompileUtil.java,1
+PerformanceAPI directory not matching package,hollow-master/hollow/src/test/java/com/netflix/hollow/api/codegen/perfapi/HollowPerformanceAPIGeneratorTest.java,1
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+The new explorer-ui will break if there are more than 1 cookie,hollow-master/hollow-ui-tools/src/main/java/com/netflix/hollow/ui/HttpHandlerWithServletSupport.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/SchemaDisplayField.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/SchemaDisplay.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeOverview.java,0
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/tools/java/com/netflix/hollow/diff/ui/HistoryUITest.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/tools/java/com/netflix/hollow/diff/ui/DiffUITest.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/history/ui/HollowHistoryUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/history/ui/HollowHistoryUI.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/history/ui/jetty/HollowHistoryUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/diff/ui/HollowDiffUIRouter.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/diff/ui/DiffUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/diff/ui/DiffUIWebServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/diff/ui/HollowDiffUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/diff/ui/jetty/HollowDiffUIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/test/java/com/netflix/hollow/diffview/HollowDiffUIServerTest.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-diff-ui/src/test/java/com/netflix/hollow/diffview/HollowHistoryUIServerTest.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-ui-tools/src/main/java/com/netflix/hollow/ui/HollowUIRouter.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-ui-tools/src/main/java/com/netflix/hollow/ui/UIServer.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-ui-tools/src/main/java/com/netflix/hollow/ui/HollowUISession.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-ui-tools/src/main/java/com/netflix/hollow/ui/HttpHandlerWithServletSupport.java,1
+Replace Jetty server with JDK httpserver,hollow-master/hollow-ui-tools/src/main/java/com/netflix/hollow/ui/HollowUIWebServer.java,1
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow/src/main/java/com/netflix/hollow/core/memory/SegmentedLongArray.java,1
+Support ARM64/AWS Graviton Instances by not performing unaligned accesses,hollow-master/hollow/src/main/java/com/netflix/hollow/core/memory/encoding/FixedLengthElementArray.java,1
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Data Corruption: overflow when calculating snapshot,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowListTypeWriteState.java,1
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow/src/main/java/com/netflix/hollow/core/memory/FixedLengthData.java,1
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow/src/main/java/com/netflix/hollow/core/memory/encoding/EncodedLongBuffer.java,1
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow/src/main/java/com/netflix/hollow/core/memory/encoding/FixedLengthElementArray.java,1
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/list/HollowListTypeReadStateShard.java,1
+Data Corruption: overflow when retrieving array start and end index,hollow-master/hollow/src/test/java/com/netflix/hollow/core/memory/encoding/FixedLengthElementArrayTest.java,1
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Maintain correct read states after integrity check,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Maintain correct read states after integrity check,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/AbstractHollowProducer.java,1
+Maintain correct read states after integrity check,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowProducerIncrementalTest.java,1
+Maintain correct read states after integrity check,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowIncrementalProducerTest.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/objects/HollowObjectJavaGenerator.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/index/SelectFieldPathResultExtractor.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/index/HashIndexSelect.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/index/UniqueKeyIndex.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/index/MatchFieldPathArgumentExtractor.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/test/java/com/netflix/hollow/api/codegen/HollowAPIGeneratorTest.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/test/java/com/netflix/hollow/api/codegen/AbstractHollowAPIGeneratorTest.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/test/java/com/netflix/hollow/api/consumer/index/UniqueKeyIndexTest.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/test/java/com/netflix/hollow/api/consumer/index/DataModel.java,1
+SchemaNotFoundException when using UniqueKeyIndex ,hollow-master/hollow/src/test/java/com/netflix/hollow/api/consumer/index/HashIndexTest.java,1
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+PrimaryKeyIndex doesn't index large changes efficiently,hollow-master/hollow/src/main/java/com/netflix/hollow/core/index/HollowPrimaryKeyIndex.java,1
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/HollowIncrementalCyclePopulator.java,1
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow/src/main/java/com/netflix/hollow/core/memory/ThreadSafeBitSet.java,1
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowIncrementalProducerMultithreadingTest.java,1
+HollowIncrementalProducer sometimes does not update/remove records,hollow-master/hollow/src/test/java/com/netflix/hollow/api/producer/HollowIncrementalProducerTest.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/memory/encoding/HashCodesBenchmark.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/memory/encoding/ReadWriteFixedLengthElementArrayTest.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/read/ReadWriteStateEngineTest.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/index/HollowHashIndexBenchmark.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/index/AbstractHollowIndexBenchmark.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/index/key/HollowPrimaryKeyIndexBenchmark.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/main/java/hollow/SegmentedLongArrayPlainPut.java,1
+Add index and hash JMH benchmarks,hollow-master/hollow-perf/src/main/java/hollow/FixedLengthElementArrayPlainPut.java,1
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+<Type>CachedImpl duplicates get<Type>Ordinal calls for shortcuts,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/delegate/HollowObjectDelegateCachedImplGenerator.java,1
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Ergonomic HollowObjectDelegateCachedImpls refer to object ordinal,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/delegate/HollowObjectDelegateCachedImplGenerator.java,1
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/HollowWriteStateEnginePrimaryKeyHasher.java,1
+HollowWriteStateEnginePrimaryKeyHasher is not hashing correctly,hollow-master/hollow/src/test/java/com/netflix/hollow/core/read/map/HollowMapHashKeyTest.java,1
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/fs/HollowFilesystemAnnouncementWatcher.java,1
+Thread leak from StaleHollowReferenceDetector in tests,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/StaleHollowReferenceDetector.java,1
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowMapTypeMapper.java,1
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowSetTypeMapper.java,1
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowListTypeMapper.java,1
+HollowObjectMapper fails with unhelpful NPE if writing a Map with a null value,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectMapperTest.java,1
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+AbstractHollowOrdinalIterable 's iterator() method is not idempotent,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/data/AbstractHollowOrdinalIterable.java,1
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Added support of compact Strings.,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Added support of compact Strings.,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+Added support of compact Strings.,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapperCompressedStringTest.java,1
+Added support of compact Strings.,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/TypeD.java,1
+Added support of compact Strings.,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+Added support of compact Strings.,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapperCompressedStringTest.java,1
+Added support of compact Strings.,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/TypeD.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/set/HollowSetDeltaHistoricalStateCreator.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/set/HollowSetDeltaApplicator.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/set/HollowSetTypeReadStateShard.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/map/HollowMapDeltaApplicator.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/map/HollowMapTypeReadStateShard.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/map/HollowMapDeltaHistoricalStateCreator.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/list/HollowListDeltaApplicator.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/list/HollowListTypeReadStateShard.java,1
+Fix overflow when calculating offset with large list ordinals,hollow-master/hollow/src/main/java/com/netflix/hollow/core/read/engine/list/HollowListDeltaHistoricalStateCreator.java,1
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow/src/main/java/com/netflix/hollow/core/index/HollowHashIndexBuilder.java,1
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow/src/main/java/com/netflix/hollow/core/index/HollowHashIndex.java,1
+ArrayOutOfBoundException: -1 when searching by Hash Index,hollow-master/hollow/src/test/java/com/netflix/hollow/core/index/HollowHashIndexTest.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/HollowProducer.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/ReadStateHelper.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/HollowProducerListener.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/fs/HollowInMemoryBlobStager.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/producer/fs/HollowFilesystemBlobStager.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/HollowConsumer.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/fs/HollowFilesystemBlobRetriever.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowClientUpdater.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowBlob.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowUpdatePlanner.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowDataHolder.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowAnnouncementWatcher.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowUpdatePlan.java,1
+It's not possible to start a consumer application when blob store directory is empty,hollow-master/hollow/src/test/java/com/netflix/hollow/api/client/HollowClientUpdaterTest.java,1
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/HollowAPIGenerator.java,1
+`destinationPath` field is not set via `HollowAPIGenerator.Builder()`,hollow-master/hollow/src/test/java/com/netflix/hollow/api/codegen/HollowAPIGeneratorTest.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/HollowConsumerJavaFileGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/HollowAPIFactoryJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/indexes/HollowHashIndexGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/indexes/HollowUniqueKeyIndexGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/api/TypeAPIObjectJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/api/TypeAPIListJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/api/TypeAPIMapJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/api/HollowDataAccessorGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/api/TypeAPISetJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/objects/HollowSetJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/objects/HollowMapJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/objects/HollowObjectJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/objects/HollowListJavaGenerator.java,1
+Compilation of generated files fails if data model object has `Byte`,hollow-master/hollow/src/main/java/com/netflix/hollow/api/codegen/objects/HollowFactoryJavaGenerator.java,1
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Diff tool should differentiate between null values and empty collections,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/diffview/DiffViewOutputGenerator.java,1
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,1
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,1
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,1
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,1
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,1
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/SchemaDisplayField.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/SchemaDisplay.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeOverview.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-explorer-ui/src/test/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServerTest.java,0
+Allow passing a custom Writer to HollowRecordStringifier,hollow-master/hollow-perf/src/jmh/java/com/netflix/hollow/core/memory/encoding/HashCodesBenchmark.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Add ability to use a hash index on nullable fields,hollow-master/hollow/src/main/java/com/netflix/hollow/core/index/HollowHashIndexBuilder.java,1
+Add ability to use a hash index on nullable fields,hollow-master/hollow/src/main/java/com/netflix/hollow/core/index/HollowHashIndex.java,1
+Add ability to use a hash index on nullable fields,hollow-master/hollow/src/test/java/com/netflix/hollow/core/index/HollowHashIndexTest.java,1
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow-diff-ui/src/main/java/com/netflix/hollow/history/ui/HollowHistoryRefreshListener.java,1
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow/src/main/java/com/netflix/hollow/api/consumer/HollowConsumer.java,1
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowClientConsumerBridge.java,1
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowDataHolder.java,1
+Unexpected/incorrect callback order for HollowConsumer.RefreshListener during init,hollow-master/hollow/src/test/java/com/netflix/hollow/api/consumer/HollowRefreshListenerTests.java,1
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+Api generation for arrays of simple types (e.g. int[]).,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectMapperTest.java,1
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+HollowAnnouncementWatcher should implement an interface,hollow-master/hollow/src/main/java/com/netflix/hollow/api/client/HollowAnnouncementWatcher.java,1
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+"NPE for fields with types: Collection, Iterable etc",hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectMapperTest.java,1
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Data Model with inheritence,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Data Model with inheritence,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+Data Model with inheritence,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectMapperTest.java,1
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUIServer.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/HollowExplorerUI.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/jetty/HollowExplorerUIServer.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/QueryPage.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSchemaPage.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/BrowseSelectedTypePage.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/ShowAllTypesPage.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/pages/HollowExplorerPage.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/QueryResult.java,0
+Transient variables are not ignored,hollow-master/hollow-explorer-ui/src/main/java/com/netflix/hollow/explorer/ui/model/TypeKey.java,0
+Transient variables are not ignored,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowTransient.java,1
+Transient variables are not ignored,hollow-master/hollow/src/main/java/com/netflix/hollow/core/write/objectmapper/HollowObjectTypeMapper.java,1
+Transient variables are not ignored,hollow-master/hollow/src/test/java/com/netflix/hollow/core/write/objectmapper/HollowObjectMapperTest.java,1
